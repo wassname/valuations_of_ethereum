@@ -2,9 +2,9 @@
 
 I kind of collect them, so in order of relevance...
 
-On eth with price targets:
+## On eth with price targets:
 
-- /u/pa7x1 [on eth](https://old.reddit.com/r/ethfinance/comments/rnsk2r/fundamental_valuation_models_of_ethereum/)
+- reddit.com/u/pa7x1 [on eth](https://old.reddit.com/r/ethfinance/comments/rnsk2r/fundamental_valuation_models_of_ethereum/)
     - If ETH was a money, we can get a lower bound: 15-64k (deflation based, long term target)
     - If ETH was a yelding asset 8-33k+ we can get a short term value
     - If ETH was a productive asset via DCF:  61k
@@ -19,16 +19,16 @@ On eth with price targets:
     - If ETH was a Productive asset via PE: 13-160k
     - If ETH was like the Euro: 32k
     - If ETH was like the USD: 96k
-- /u/squishchaos 's  [triple halving thesis](https://twitter.com/SquishChaos/status/1387074095007817730) - 30-150k perhaps temporarily
+- - reddit.com/u/squishchaos 's  [triple halving thesis](https://twitter.com/SquishChaos/status/1387074095007817730) - 30-150k perhaps temporarily
 - [Standard and Charter Bank](https://www.tbstat.com/wp/uploads/2021/09/Ethereum-investor-guide.pdf) - 26-35k
 - ARK's Big Ideas 2022 slide deck: [ETH at 150k](https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARK_BigIdeas2022.pdf?hsCtaTracking=217bbc93-a71a-4c2b-9959-0842b6fe301c|2653a4d0-af35-42f0-853a-c5f90f002abb)
 
-On Eth:
+## On Eth with no targets
 
 - [GreyScale's report on eth](https://grayscale.com/wp-content/uploads/2021/05/valuing-ethereum.pdf)
 - [Lyn Alden investment report on eth](https://twitter.com/LynAldenContact/status/1351241309789577221) and the community [reply](https://docs.google.com/document/d/1Mvz1uKo9UR33YMSwc_-go31L7bmzkddUVV0UfWuclZg/edit) with comments from Vitalik
 
-On cryptoasset valuation:
+## On cryptoasset valuation in general
 
 - 2021 [Ray Dalios BTC report](https://www.bridgewater.com/research-and-insights/our-thoughts-on-bitcoin)
 - [2019 EY's report on cryptoassets](https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/emeia-financial-services/ey-the-valuation-of-crypto-assets.pdf)
@@ -41,10 +41,12 @@ On cryptoasset valuation:
 - [2017 cburniske](https://medium.com/@cburniske/cryptoasset-valuations-ac83479ffca7)
 - [2017 wintonark](https://wintonark.medium.com/how-to-value-a-crypto-asset-a-model-e0548e9b6e4e)
 
-See also friends of ethfinance:
+# Friends of ethfinance:
 
-- /u/logristhebard https://tokenomicsexplained.com/
-- /u/lifesmage and [the rocketpool investment thesis](https://old.reddit.com/r/ethfinance/comments/qwbb8w/rocket_pool_investment_thesis_20/)
+- reddit.com/u/logristhebard https://tokenomicsexplained.com/
+- reddit.com/u/lifesmage and [the rocketpool investment thesis](https://old.reddit.com/r/ethfinance/comments/qwbb8w/rocket_pool_investment_thesis_20/)
+
+# Endnote
 
 My personal opinion is that valuation models argue whether something will go up 10%  or 20% if it works. But the real question is if it works. You absolutely need to discount it by the risk or it's a useless number.  In fact the medium term price is best looked at as <eventual value> * <chance of success>. Price changes seem to happen as we update our mental estimate of <chance of success>. 
 
