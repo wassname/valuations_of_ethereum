@@ -1,6 +1,6 @@
 # valuations_of_ethereum
 
-I kind of collect them, so in order of relevance...
+I kind of collect them, so here's a list of valuation models. Edits and feedback are welcome.
 
 ## ETH Reports with price targets:
 
@@ -31,7 +31,7 @@ I kind of collect them, so in order of relevance...
 ## On cryptoasset valuation in general
 
 - 2021 [Ray Dalios BTC report](https://www.bridgewater.com/research-and-insights/our-thoughts-on-bitcoin)
- a [2021 euphoric chainlink report](https://1f9807bf-abc2-449f-a2b3-a1fab3b8450a.filesusr.com/ugd/4b8d26_0fdd218de176436d95dea6efe75c0f00.pdf) from [abstraction.capital](https://www.abstraction.capital/research)
+- a [2021 euphoric chainlink report](https://1f9807bf-abc2-449f-a2b3-a1fab3b8450a.filesusr.com/ugd/4b8d26_0fdd218de176436d95dea6efe75c0f00.pdf) from [abstraction.capital](https://www.abstraction.capital/research)
 - [2019 EY's report on cryptoassets](https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/emeia-financial-services/ey-the-valuation-of-crypto-assets.pdf)
 - [2019 hash-cib seeking uniform valuation for crypto](https://medium.com/hash-cib/seeking-uniform-valuation-for-crypto-34df2f106e60) [part II](https://medium.com/hash-cib/seeking-uniform-valuation-for-crypto-part-ii-5012f91d06af)
 - [2019 bgits, a flow based valuation of synthetics](https://observablehq.com/@bgits/synthetix-exchange-value-flows-exploration)
