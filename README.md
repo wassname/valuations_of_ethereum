@@ -25,6 +25,7 @@ I kind of collect them, so here's a list of valuation models. Edits and feedback
 
 ## Eth reports with no targets
 
+- 2022 [Hal Press - Ethereum — A Generational Investment](https://medium.com/@halp1120/1-the-only-other-large-assets-that-arguably-have-structural-demand-are-luna-and-bnb-cdcf8b2a8281)
 - 2021 [GreyScale's report on eth](https://grayscale.com/wp-content/uploads/2021/05/valuing-ethereum.pdf)
 - 2021 [Lyn Alden investment report on eth](https://twitter.com/LynAldenContact/status/1351241309789577221) and the community [reply](https://docs.google.com/document/d/1Mvz1uKo9UR33YMSwc_-go31L7bmzkddUVV0UfWuclZg/edit) with comments from Vitalik
 
