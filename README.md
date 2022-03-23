@@ -49,7 +49,7 @@ I kind of collect them, so here's a list of valuation models. Edits and feedback
 
 # Endnote
 
-My personal opinion is that valuation models argue whether something will go up 10%  or 20% if it works. But the real question is if it works. You absolutely need to discount it by the risk or it's a useless number.  In fact the medium term price is best looked at as <eventual value> * <chance of success>. Price changes seem to happen as we update our mental estimate of <chance of success>. 
+My personal opinion is that valuation models argue whether something will go up 10%  or 20% if it works. But the real question is if it works at all. You absolutely need to discount it by it's risk or it's a useless number.  In fact the medium term price is best looked at as the expected value = <eventual value> * <chance of success>. Price changes seem to happen as we update our mental estimate of <chance of success>. 
 
 If ETH is 30-300k, then the current price implies a 90-99% estimation of failure by the market. I think the risk is lower than this, therefore the expected value is higher.
 
@@ -57,7 +57,7 @@ In cryptoassets the risk could be anywhere from 0-100%. If it's ~100% then all v
 
 I see it as most important to monitor the biggest risks and metrics: hacks/bugs, regulation, and product market fit compared to competitors. Also the team and founders. I think Eth is doing well.
     
-To that end risk in defi:
+To that end, some links on risk in defi:
 
 - [Ming Zhao's "Yield Farming is a Misnomer"](https://twitter.com/FabiusMercurius/status/1454513434209312772)
 - Finding AAA rated defi [the primedao rating database](https://docs.google.com/spreadsheets/d/1eIOxRAxuPawM2NkCPbGGmjZUW1xbwRZxU9kYOqsPRaA/edit#gid=1429007236)
