@@ -22,6 +22,7 @@ I kind of collect them, so here's a list of valuation models. Edits and feedback
 - reddit.com/u/squishchaos 's  [triple halving thesis](https://twitter.com/SquishChaos/status/1387074095007817730) - 30-150k perhaps temporarily
 - [Standard and Charter Bank](https://www.tbstat.com/wp/uploads/2021/09/Ethereum-investor-guide.pdf) - 26-35k
 - ARK's Big Ideas 2022 slide deck: [ETH at 150k](https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARK_BigIdeas2022.pdf?hsCtaTracking=217bbc93-a71a-4c2b-9959-0842b6fe301c|2653a4d0-af35-42f0-853a-c5f90f002abb)
+- [Coinbase,If ETH, post merge, was a productive asset via DCF](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/eth-staking-post-merge-yield-estimates-and-risk): 5k
 
 ## Eth reports with no targets
 
