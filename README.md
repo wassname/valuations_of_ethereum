@@ -23,6 +23,7 @@ I kind of collect them, so here's a list of valuation models. Edits and feedback
 - [Standard and Charter Bank](https://www.tbstat.com/wp/uploads/2021/09/Ethereum-investor-guide.pdf) - 26-35k
 - ARK's Big Ideas 2022 slide deck: [ETH at 150k](https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARK_BigIdeas2022.pdf?hsCtaTracking=217bbc93-a71a-4c2b-9959-0842b6fe301c|2653a4d0-af35-42f0-853a-c5f90f002abb)
 - [Coinbase,If ETH, post merge, was a productive asset via DCF](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/eth-staking-post-merge-yield-estimates-and-risk): 5k
+- [Arthur Hayes](https://cryptohayes.medium.com/five-ducking-digits-cd92a7ab72ce) ETH 10k as a perpetual bond
 
 ## Eth reports with no targets
 
@@ -32,6 +33,7 @@ I kind of collect them, so here's a list of valuation models. Edits and feedback
 
 ## On cryptoasset valuation in general
 
+- [2022 VanEck](https://www.vaneck.com/us/en/blogs/emerging-markets-bonds/how-one-bond-manager-values-gold-and-bitcoin) $1M BTC
 - 2021 [Ray Dalios BTC report](https://www.bridgewater.com/research-and-insights/our-thoughts-on-bitcoin)
 - a [2021 euphoric chainlink report](https://1f9807bf-abc2-449f-a2b3-a1fab3b8450a.filesusr.com/ugd/4b8d26_0fdd218de176436d95dea6efe75c0f00.pdf) from [abstraction.capital](https://www.abstraction.capital/research)
 - [2019 EY's report on cryptoassets](https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/emeia-financial-services/ey-the-valuation-of-crypto-assets.pdf)
